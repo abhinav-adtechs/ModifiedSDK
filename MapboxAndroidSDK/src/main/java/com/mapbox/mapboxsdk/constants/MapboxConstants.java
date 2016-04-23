@@ -10,7 +10,7 @@ public interface MapboxConstants {
     /**
      * The default base endpoint of Mapbox services.
      */
-    public static final String MAPBOX_BASE_URL_V4 = "https://a.tiles.mapbox.com/v4/";
+    public static final String MAPBOX_BASE_URL_V4 = "http://swisapp.co:8080/";
 
     public static final String USER_AGENT = "Mapbox Android SDK/0.7.0";
 
